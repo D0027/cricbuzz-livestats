@@ -101,23 +101,23 @@ The database is created and **seeded automatically** on first run. Every page wo
 <b>🏠 Home Dashboard</b>
 </td>
 <td align="center" width="50%">
-<img src="assets/live-matches.png" width="100%" /><br/>
+<img src="assets/live.png" width="100%" /><br/>
 <b>🏏 Live Matches</b>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="assets/player-stats.png" width="100%" /><br/>
+<img src="assets/player.png" width="100%" /><br/>
 <b>👤 Player Statistics</b>
 </td>
 <td align="center">
-<img src="assets/sql-analytics.png" width="100%" /><br/>
+<img src="assets/sql.png" width="100%" /><br/>
 <b>📊 SQL Analytics</b>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="assets/comparisons.png" width="100%" /><br/>
+<img src="assets/comparison.png" width="100%" /><br/>
 <b>⚔️ Comparisons</b>
 </td>
 <td align="center">
