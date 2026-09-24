@@ -317,11 +317,13 @@ pytest tests/test_sql_queries.py -v
 ## 🌐 Deployment
 
 - ☁️ **Streamlit Community Cloud:** push this repo to GitHub, point Streamlit Cloud at `main.py`, and add your `.env` values as **Secrets** (same key names).
+
 - 🐳 **Docker / VM:**
 
 ```bash
   pip install -r requirements.txt && streamlit run main.py --server.port 8501 --server.address 0.0.0.0
 ```
+
 - 🗄️ **MySQL / PostgreSQL in production:** provision the database first and set the `DB_*` env vars. The app creates tables on first boot if they don't exist.
 
 ---
