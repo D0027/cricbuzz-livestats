@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=16A34A&center=true&vCenter=true&width=750&lines=Live+cricket+data+at+your+fingertips+%F0%9F%8F%8F;25+hand-built+SQL+analytics+questions+%F0%9F%93%8A;Player+and+team+head-to-head+comparisons+%E2%9A%94%EF%B8%8F;Runs+fully+offline+out+of+the+box+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,50:16a34a,100:4ade80&height=240&section=header&text=Cricbuzz%20LiveStats&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Real-Time%20Cricket%20Insights%20and%20SQL-Based%20Analytics&descAlignY=62&descSize=20&v=2" width="100%" alt="Cricbuzz LiveStats banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=16A34A&center=true&vCenter=true&width=750&lines=Live+cricket+data+at+your+fingertips+%F0%9F%8F%8F;25+hand-built+SQL+analytics+questions+%F0%9F%93%8A;Player+%26+team+head-to-head+comparisons+%E2%9A%94%EF%B8%8F;Runs+fully+offline+out+of+the+box+%E2%9A%A1" alt="Typing SVG" />
+<a href="https://github.com/D0027/cricbuzz-livestats">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=16A34A&center=true&vCenter=true&width=750&lines=Live+cricket+data+at+your+fingertips+%F0%9F%8F%8F;25+hand-built+SQL+analytics+questions+%F0%9F%93%8A;Player+and+team+head-to-head+comparisons+%E2%9A%94%EF%B8%8F;Runs+fully+offline+out+of+the+box+%E2%9A%A1&v=2" alt="Typing animation" />
 </a>
 
 <br/><br/>
@@ -318,6 +318,7 @@ pytest tests/test_sql_queries.py -v
 
 - ☁️ **Streamlit Community Cloud:** push this repo to GitHub, point Streamlit Cloud at `main.py`, and add your `.env` values as **Secrets** (same key names).
 - 🐳 **Docker / VM:**
+
 ```bash
   pip install -r requirements.txt && streamlit run main.py --server.port 8501 --server.address 0.0.0.0
 ```
