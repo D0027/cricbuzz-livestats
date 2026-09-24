@@ -1,0 +1,24 @@
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Databases (anywhere in the project)
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/*.log*
+
+# Editor / OS
+.vscode/
+.DS_Store
